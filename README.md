@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FraykJin from Paris
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking for a master degree to become a software engineer
+- 👋 Hi, I’m @FraykJin from Paris / Bonjour
+- 👀 I’m interested in basketball, football ...
+- 🌱 I’m currently learning algorithmic 
+- 💞️ I’m looking for a master degree to become a software engineer / Je recherche un master en Informatique dans le domaine logiciel
 - 📫 How to reach me : ykjin.pro@gmail.com
 
 <!---
