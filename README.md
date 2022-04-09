@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @FraykJin from Paris / Bonjour
-- 👀 I’m interested in sport, in tech !
-- 🌱 I’m currently learning algorithmic !
-- 💞️ I’m actually doing a Master degree !
 - 📫 How to reach me : ykjin.pro@gmail.com
 
 <!---
