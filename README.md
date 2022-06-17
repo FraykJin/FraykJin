@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FraykJin from Paris / Bonjour
+- 👋 Hi, I’m Yang-kang JIN @FraykJin from Paris / Bonjour
 - 📫 How to reach me : ykjin.pro@gmail.com
 - 🐣 Here's my Linkedin : www.linkedin.com/in/yang-kang-jin
 <!---
